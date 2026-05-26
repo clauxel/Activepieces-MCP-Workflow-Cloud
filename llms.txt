@@ -1,0 +1,11 @@
+# Activepieces MCP Workflow Cloud
+
+Activepieces MCP Workflow Cloud is a SaaS workspace for Activepieces.
+
+Website: https://activepiecesworkflow.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Activepieces
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
